@@ -1,4 +1,4 @@
-# HW5 workday daily planner
+# Workday Planner
 This application is designed to assist an employee with a busy schedule to create a daily planner and manage time effectively.
 
 
